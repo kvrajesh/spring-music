@@ -1,8 +1,8 @@
 ---
 applications:
-- name: spring-music
+- name: rajesh_spring-music
   memory: 512M
   instances: 1
-  host: spring-music-${random-word}
+  host: spring-music-rajesh_kesaraju
   path: build/libs/spring-music.war
 
